@@ -24,7 +24,7 @@ I prefer to set up SAM on VSCode to deploy the code on AWS Lambda [How To](https
 
 How does it work?
 
-1) The first thing to do is initialize your project state from the sheet you clones, go to sheet 2, and set B2 and D2 cells to TRUE.
+1) The first thing to do is initialize your project state from the sheet you cloned, go to sheet 2, and set B2 and D2 cells to TRUE.
 2) Making B2 to true, allows the lambda execution to download all the slack users and populate the data in SHEET 1
 3) Making D2 to TRUE allows to download all district data and create the mapping for the dropdown in SHEET 1 dropdown. It helps the people in your organization to update the district easily from the sheet
 4) You can protect the whole sheet and let only the district column to be available for edit by the employees
