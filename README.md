@@ -1,6 +1,6 @@
 # CoVac Bot
 
-CoVac Bot is a Nodejs mini project that notifies slack users for an organization on the availability of the covid vaccine in the district
+CoVac Bot is a Nodejs [lambda](https://aws.amazon.com/lambda/) function that notifies slack users for an organization on the availability of the covid vaccine in the district
 
 
 ## Getting Started
